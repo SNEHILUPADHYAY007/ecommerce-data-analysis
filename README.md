@@ -29,7 +29,7 @@ This project aims to provide a comprehensive framework for analyzing e-commerce 
 Before running the notebooks, ensure you have the following Python packages installed:
 
 ```bash
-pip install pyodbc polars import-ipynb pyarrow
+pip install pyodbc polars import-ipynb
 ```
 
 ## Notebooks
