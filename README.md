@@ -10,7 +10,6 @@ This repository contains a set of Jupyter notebooks designed to facilitate the a
 - [Notebooks](#notebooks)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [License](#license)
 
 ## Overview
 
@@ -66,11 +65,16 @@ pip install pyodbc polars import-ipynb pyarrow
 ecommerce-data-analysis/
 │
 ├── data-model/                      # Contains data model definitions and related files
-│   └── <data-model-files>
+│   ├── insight_data_model           # Data Model of the Insight tables 
+    └── raw_data_model               # Data Model of the Raw tables 
 │
 ├── insight_tbl_ddl_queries/         # SQL queries for creating insight tables
-│   └── <ddl-query-files>
-│
+│   ├── aisles.sql                   # Table Query for Aisles Insight table
+│   ├── department.sql               # Table Query for department Insight table
+│   ├── order_products.sql           # Table Query for order_products Insight table
+│   ├── orders.sql                   # Table Query for orders Insight table
+│   └── products.sql                 # Table Query for products Insight table
+│   
 ├── notebooks/                       # Jupyter notebooks for various tasks
 │   ├── data_prepn.ipynb             # Data preparation notebook
 │   ├── database.ipynb               # Database handling notebook
