@@ -18,11 +18,6 @@ This repository contains a set of Jupyter notebooks designed to facilitate the a
 This project aims to provide a comprehensive framework for analyzing e-commerce data. The notebooks included guide users through the entire process—from data extraction and transformation to database management and final data analysis.
 
 ## Data Model
-**RAW DATA MODEL**
-
-![RAW DATA MODEL](./data-model/raw_data_model.png) 
-
-**INSIGHT DATA MODEL**
 
 ![INSIGHT DATA MODEL](./data-model/insight_data_model.png)
 
