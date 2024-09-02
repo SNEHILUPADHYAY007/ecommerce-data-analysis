@@ -27,7 +27,7 @@ This project aims to provide a comprehensive framework for analyzing e-commerce 
 ![INSIGHT DATA MODEL](./data-model/insight_data_model.png)
 
 
-## High Level Data Ingestion Architecture
+## Data Ingestion Architecture
 
 ![Data Ingestion Workflow](./workflow.png)
 
