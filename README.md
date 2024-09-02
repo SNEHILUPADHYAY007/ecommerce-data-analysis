@@ -6,6 +6,7 @@ This repository contains a set of Jupyter notebooks designed to facilitate the a
 ## Table of Contents
 
 - [Overview](#overview)
+- [Data Model](#data-model)
 - [Installation](#installation)
 - [Notebooks](#notebooks)
 - [Usage](#usage)
@@ -96,4 +97,4 @@ ecommerce-data-analysis/
 ```
 **Notes:-**
 1. DATA can be found here:- https://drive.google.com/drive/folders/1pjmEQOxse7Q3kldm7YPBUANS4Nlo7rCc (Taken From Darshil Parmar SQL course)
-2. SERVER AND DB information has been removed. Please use this Class to instantiate the Instance Variables.
+2. SERVER AND DB information has been removed. Please use this Class **SQLServerDB** to instantiate the Instance Variables.
