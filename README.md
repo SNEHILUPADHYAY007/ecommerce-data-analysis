@@ -7,6 +7,7 @@ This repository contains a set of Jupyter notebooks designed to facilitate the a
 
 - [Overview](#overview)
 - [Data Model](#data-model)
+- [High Level Data Ingestion Architecture](#data-ing-arch)
 - [Installation](#installation)
 - [Notebooks](#notebooks)
 - [Usage](#usage)
