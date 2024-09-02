@@ -7,7 +7,7 @@ This repository contains a set of Jupyter notebooks designed to facilitate the a
 
 - [Overview](#overview)
 - [Data Model](#data-model)
-- [High Level Data Ingestion Architecture](#data-ing-arch)
+- [Data Ingestion Architecture](#data-ing-arch)
 - [Installation](#installation)
 - [Notebooks](#notebooks)
 - [Usage](#usage)
@@ -25,6 +25,9 @@ This project aims to provide a comprehensive framework for analyzing e-commerce 
 **INSIGHT DATA MODEL**
 
 ![INSIGHT DATA MODEL](./data-model/insight_data_model.png)
+
+## High Level Data Ingestion Architecture
+![Data Ingestion Workflow](./workflow.png)
 
 ## Installation
 
