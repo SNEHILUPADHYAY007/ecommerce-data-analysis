@@ -1,7 +1,7 @@
 
 # E-Commerce Data Pipeline
 
-This repository contains a set of Jupyter notebooks designed to facilitate the analysis of e-commerce data. The project is structured to include data preparation, database management, and a main execution pipeline using tools such as Polars, PyODBC, and others.
+This repository contains a set of Jupyter notebooks designed to facilitate the analysis of e-commerce data. The project is structured to include **data preparation, database management**, and a main execution pipeline using **tools such as Polars, PyODBC, and others.**
 
 ## Table of Contents
 
