@@ -17,9 +17,11 @@ This project aims to provide a comprehensive framework for analyzing e-commerce 
 
 ## Data Model
 **RAW DATA MODEL**
+
 ![RAW DATA MODEL](./data-model/raw_data_model.png) 
 
 **INSIGHT DATA MODEL**
+
 ![INSIGHT DATA MODEL](./data-model/insight_data_model.png)
 
 ## Installation
